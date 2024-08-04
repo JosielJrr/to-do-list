@@ -1,5 +1,7 @@
 # Lista de Afazeres 📋
 
+> **Nota:** Este projeto foi desenvolvido com base em um tutorial do canal [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=KNk0Cex3zcM&list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6&index=52). Agradeço ao criador por fornecer um excelente guia que ajudou na construção deste projeto.
+
 <div align="center">
   <img src="assets/img/to do list.PNG" alt="Interface do Programa de Lista de Afazeres" width=600px>
 </div>
