@@ -7,7 +7,6 @@
 ## ✨ Funcionalidades
 - Adicionar novas tarefas
 - Remover tarefas
-- Marcar tarefas como concluídas
 - Alternar o estado das tarefas entre concluídas e não concluídas
 
 ## 🛠️ Tecnologias Utilizadas
@@ -21,6 +20,6 @@
     git clone https://github.com/JosielJrr/to-do-list.git
     cd to-do-list
     ```
-3. Abra o arquivo `index.html` no seu navegador.
+2. Abra o arquivo `index.html` no seu navegador.
 
 > Projeto baseado no tutorial do canal [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=KNk0Cex3zcM&list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6&index=52). Agradeço pelo excelente guia que ajudou na criação.
